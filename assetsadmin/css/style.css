@@ -1,0 +1,57 @@
+/* Custom styles cho giao diện khách hàng TZY Store */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #111;
+}
+
+.tzy-campaign-card {
+    background: #000;
+    color: #fff;
+    padding: 60px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.campaign-brand-bg {
+    font-size: 120px;
+    font-weight: 900;
+    opacity: 0.05;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    letter-spacing: 10px;
+}
+
+.campaign-tag {
+    font-size: 11px;
+    letter-spacing: 4px;
+    text-uppercase: uppercase;
+    color: #aaa;
+    margin-bottom: 15px;
+}
+
+.campaign-heading {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.campaign-text {
+    font-size: 13px;
+    color: #ccc;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* Chi tiết sản phẩm */
+.quantity-input-group {
+    max-width: 130px;
+}
+.quantity-input-group input {
+    text-align: center;
+}

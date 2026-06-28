@@ -1,0 +1,38 @@
+body {
+    font-size: 14px;
+    background-color: #f8f9fa;
+    transition: background-color 0.3s, color 0.3s;
+}
+.admin-sidebar {
+    background-color: #212529;
+    min-height: 100vh;
+    color: #fff;
+    padding: 20px;
+}
+.admin-sidebar a { color: #ccc; text-decoration: none; display: block; padding: 10px 0; }
+.admin-sidebar a:hover { color: #fff; }
+.admin-prod-img { width: 50px; height: 60px; object-fit: cover; border-radius: 4px; border: 1px solid #dee2e6; }
+
+/* Cấu trúc giao diện Dark Mode cộng điểm */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+body.dark-mode .card {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    border: 1px solid #333;
+}
+body.dark-mode .table {
+    color: #e0e0e0;
+    border-color: #333;
+}
+body.dark-mode .table-striped>tbody>tr:nth-of-type(odd)>* {
+    --bs-table-color-type: #e0e0e0;
+    --bs-table-bg-type: #252525;
+}
+body.dark-mode .form-control, body.dark-mode .form-select {
+    background-color: #2d2d2d;
+    color: #fff;
+    border-color: #444;
+}
