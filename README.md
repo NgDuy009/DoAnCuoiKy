@@ -93,4 +93,7 @@ Mật khẩu: tzy12345
 
 ## Ảnh giao diện
 ## 8.Một Số Hình Ảnh Giao Diện
-<img width="1840" height="862" alt="image" src="https://github.com/user-attachments/assets/15cfad53-6bb0-4820-866f-6b4daf17939d" />
+https://github.com/user-attachments/assets/15cfad53-6bb0-4820-866f-6b4daf17939d
+https://github.com/user-attachments/assets/a6e2ffca-6425-4c0c-b397-851d77d69fe2
+https://github.com/user-attachments/assets/544a905c-482a-4eff-b2e7-147dc81f4d28
+https://github.com/user-attachments/assets/7f1315c8-a377-41dd-bd20-8b109621f485
